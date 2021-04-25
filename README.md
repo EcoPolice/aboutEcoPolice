@@ -15,7 +15,7 @@
 * Enjoy the process of using this app
     
 ## Links
-+ [Presentation (RUS, pre)](https://www.canva.com/design/DAEcpEYAv24/CzPYFSg36GXBAsdcMpvAqA/view?utm_content=DAEcpEYAv24&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
++ [Presentation (RUS, final)](https://www.canva.com/design/DAEcqr45PfY/0i5DlgOB9VCOwSIRnm5DIg/view?utm_content=DAEcqr45PfY&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
 
 ## Creators
 * [yoloroy](https://github.com/yoloroy)
