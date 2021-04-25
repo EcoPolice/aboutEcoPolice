@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://raw.githubusercontent.com/yoloroy/vpabe/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
-        <img src="https://raw.githubusercontent.com/yoloroy/vpabe/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>
+    <a href="https://github.com/EcoPolice/aboutEcoPolice/blob/main/ECOPOLICE.png">
+        <img src="https://github.com/EcoPolice/aboutEcoPolice/blob/main/ECOPOLICE.png"/>
     </a>
 </p>
 <h1 align="center">EcoPolice</h1>
